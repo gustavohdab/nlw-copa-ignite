@@ -25,39 +25,41 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - 💻 #Web Front end :
 
-- TypeScript
-- React
-- React DOM
-- Tailwind
-- Next.js
+- [TypeScript](<[TypeScript](https://www.typescriptlang.org/)>)
+- [React](https://reactjs.org/)
+- [React DOM](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Next.js](https://nextjs.org/)
 
 ---
 
 - ⚙️ #Back end :
 
-- Prisma
-- Node.js
-- Axios
-- Zod
-- Mermaid-js/mermaid-cli
-- Fastify - Cors, JWT
+- [Prisma](https://www.prisma.io/)
+- [Node.js](https://nodejs.org/en/)
+- [Axios](https://github.com/axios/axios)
+- [Zod](https://github.com/colinhacks/zod)
+- [Fastify - Cors, JWT](https://www.fastify.io/)
+- [Mermaid-js/mermaid-cli (ERD Diagram)](https://github.com/mermaid-js/mermaid-cli)<p align="">
+<img alt="erd diagram" src=".github/backend-erd.png" width="50%">
+</p>
 
 ---
 
 - 📱 #Mobile :
 
-- React Native
-- React Navigation
-- Expo
-- Native base
-- Phosphor
-- Babel/dotenv
+- [React Native](https://reactnative.dev/)
+- [React Navigation](https://reactnavigation.org/)
+- [Expo](https://expo.dev/)
+- [Native base](https://nativebase.io/)
+- [Phosphor](https://phosphoricons.com/)
+- [Babel/dotenv](https://github.com/brysgo/babel-plugin-inline-dotenv)
 
 ## 💻 Projeto
 
 O projeto é um bolão da copa 2022. Onde na Web temos a Landing Page(Front Page) e a capacidade de criar um novo bolão. Já no Mobile, é onde de fato temos o bolão acontecendo.
 
-#### Funcionalidades:
+#### Funcionalidades Mobile:
 
 - Login com Google.
 - Criar bolão com nome que quiser, gera um código de 6 caracteres.
