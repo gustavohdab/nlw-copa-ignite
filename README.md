@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - 💻 #Web Front end :
 
-- [TypeScript](<[TypeScript](https://www.typescriptlang.org/)>)
+- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
 - [React DOM](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
